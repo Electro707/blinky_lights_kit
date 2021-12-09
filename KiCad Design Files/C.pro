@@ -1,4 +1,4 @@
-update=Sat 27 Jun 2020 07:10:05 PM EDT
+update=Do 09 Dez 2021 05:22:17
 version=1
 last_client=kicad
 [general]
@@ -238,7 +238,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [schematic_editor]
 version=1
-PageLayoutDescrFile=/media/electro/ELECTRO/Kicad/Page Layouts/TitleOnly.kicad_wks
+PageLayoutDescrFile=TitleOnly.kicad_wks
 PlotDirectoryName=Schematic
 SubpartIdSeparator=0
 SubpartFirstId=65
